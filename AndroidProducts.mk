@@ -15,6 +15,6 @@
 #
 
 PRODUCT_MAKEFILES := \
-     $(LOCAL_DIR)/twrp_BV4900.mk
+     $(LOCAL_DIR)/twrp-BV4900.mk
 
-COMMON_LUNCH_CHOICES := twrp_BV4900-eng
+COMMON_LUNCH_CHOICES := twrp-BV4900-eng
